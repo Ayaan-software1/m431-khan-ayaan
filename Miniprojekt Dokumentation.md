@@ -48,18 +48,6 @@ wenn keine hilfe zu verfuegung steht tut man eine nachricht/ticket schicken soda
 
 
 für anfprderungen für den tool:
-## Anforderungen
-
-### Funktionale Anforderungen
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-### Nicht-funktionale Anforderungen
-- [ ] 
-- [ ] 
-- [ ] 
 
 ## Kriterien & Gewichtung (Nutzwertanalyse)
 
@@ -81,24 +69,29 @@ für anfprderungen für den tool:
 | | | | | | | | |
 | | | | | | | | |
 
-## Entscheid
-Begründung: 
+Empfehlung: Notion
 
-## Kurzanleitung
-### Für Lernende
-1. 
-2. 
-3. 
+Ausgangslage: Im Ausbildungsbetrieb fehlt eine zentrale Stelle, um Probleme zu melden — Lernende sollen bei fehlender Hilfe ein Ticket mit Priorität und Kontext einreichen können, Coaches brauchen eine Übersicht über offene, laufende und erledigte Anfragen.
 
-### Für Coaches
-1. 
-2. 
-3.
+Empfohlenes Tool: Notion. Alle Lernenden und Coaches verfügen bereits über einen Notion-Account im gemeinsamen BBC-Workspace — kein neues Konto, keine Einführungsschulung nötig. Eine Datenbank mit Formular-Ansicht deckt die Ticket-Erfassung ab, eine Board-Ansicht mit den Spalten Todo / In Bearbeitung / Erledigt die Bearbeitung durch die Coaches. Priorität wird als eigenes Datenbankfeld geführt und ist im Board filterbar.
 
+Einschränkung und Lösung: Automatische Benachrichtigungen bei Statusänderungen sind im kostenlosen Notion-Tarif nicht verfügbar. Stattdessen erwähnt der Coach den Lernenden im Kommentar mit @Name — das löst auf allen Notion-Tarifen zuverlässig eine Benachrichtigung (Glocke + optional E-Mail) aus, ohne Zusatzkosten.
 
+Annahmen (da vom Auftraggeber noch nicht bestätigt): Budget CHF 0, ca. 50–58 Nutzer (Lernende + Coaches), Scope auf die eigene Kohorte/Abteilung begrenzt, Coaches als Admins mit Vollzugriff auf die Datenbank, Lernende nur mit Formularzugriff ohne Einsicht in fremde Tickets.
 
-arbeitspakete =
-1. entwurf erstellen fuer die empfehlung
-2. entwurf erstellen fuer die kurzanleitung
-3.  vorteile und nachteile von diesem werkzeug auflisten
-4. tool finden oder entwickeln falls entwickelung noetig, programmiersprache aussuchen
+Kurzanleitung
+
+Für Lernende
+
+Formular-Link öffnen: 
+Ausfüllen: Name, Priorität (Hoch/Mittel/Niedrig), Problembeschreibung, Fragen an den Coach
+Auf „Absenden" klicken → Ticket erscheint automatisch in „Todo"
+Bei Antwort: Glocke oben rechts bzw. E-Mail prüfen
+
+Für Coaches
+
+Tickets-Datenbank öffnen → Board-Ansicht (Todo / In Bearbeitung / Erledigt)
+Ticket anklicken, Beschreibung und Fragen lesen
+Bearbeitungsbeginn: Ticket auf „In Bearbeitung" ziehen
+Antwort als Kommentar schreiben, Lernenden mit @Name erwähnen → Benachrichtigung geht automatisch raus
+Abgeschlossen: Ticket auf „Erledigt" ziehen
