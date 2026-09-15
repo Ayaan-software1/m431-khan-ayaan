@@ -40,12 +40,14 @@ Und: **Feedback geben ist die schwierigere Hälfte.** Etwas Brauchbares zu sagen
 
 # Teil A · Rückmeldung zum Ergebnis
 
-**Ich gebe Feedback:** _______________ **An Team / Person:** _______________ **Datum:** _______
+**Ich gebe Feedback:**bruno, erdi, ayaan_____________ **An Team / Person:** namir, leo_______________ **Datum:** 15.09.2026_______
 
 ## 1 · Erster Eindruck
 
 Bevor Sie ins Detail gehen: Was ist Ihnen in den ersten 30 Sekunden aufgefallen?
 
+Sehr schöner word datei mit struktur. Schöner Font. Alles in übersicht. Es ist sehr klar aufgebaut.
+es wir dein schöner Tabelle benutz für die analyse.
 
 ## 2 · Der Praxistest
 
