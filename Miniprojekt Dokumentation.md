@@ -63,11 +63,13 @@ für anfprderungen für den tool:
 
 ## Tool-Vergleich
 
-| Tool | Kosten | Bedienbarkeit | Vorhandener Zugang | Board & Priorität | Benachrichtigung | | Gewichtete Punktzahl |
-|---|---|---|---|---|---|---|---|
-| Notion | 500chf| sehr leicht| | ja aber plus nötig | möglich  | ist möglich |  90 |
-| | | | | | | | |
-| | | | | | | | |
+| Tool | Kosten | Bedienbarkeit | Vorhandener Zugang | Board & Priorität | Benachrichtigung | Datenschutz | Gewichtete Punktzahl |
+|------|--------|---------------|-------------------|------------------|-----------------|------------|-------------------|
+| Notion | CHF 0 (Free) | sehr leicht | ja, alle im Workspace | ja, nativ | ja via @mention | US-Anbieter | **730 Punkte** |
+| MS Planner | CHF 0 (in M365) | leicht | ja, BBC-M365-Konto | ja (Buckets+Priorität) | ja, nativ auto | EU-Tenant (BBC) | **785 Punkte** |
+| GitLab | CHF 0 (Free, max 5 User) | eher technisch | teilweise (max 5) | ja (Board+Labels) | ja, nativ auto | Region unklar | **670 Punkte** |
+
+**→ Empfehlung: NOTION**
 
 Empfehlung: Notion
 
