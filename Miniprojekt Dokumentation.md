@@ -71,8 +71,6 @@ für anfprderungen für den tool:
 
 **→ Empfehlung: NOTION**
 
-Empfehlung: Notion
-
 Ausgangslage: Im Ausbildungsbetrieb fehlt eine zentrale Stelle, um Probleme zu melden — Lernende sollen bei fehlender Hilfe ein Ticket mit Priorität und Kontext einreichen können, Coaches brauchen eine Übersicht über offene, laufende und erledigte Anfragen.
 
 Empfohlenes Tool: Notion. Alle Lernenden und Coaches verfügen bereits über einen Notion-Account im gemeinsamen BBC-Workspace — kein neues Konto, keine Einführungsschulung nötig. Eine Datenbank mit Formular-Ansicht deckt die Ticket-Erfassung ab, eine Board-Ansicht mit den Spalten Todo / In Bearbeitung / Erledigt die Bearbeitung durch die Coaches. Priorität wird als eigenes Datenbankfeld geführt und ist im Board filterbar.
