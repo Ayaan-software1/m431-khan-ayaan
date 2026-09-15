@@ -75,9 +75,9 @@ für anfprderungen für den tool:
 
 ## Tool-Vergleich
 
-| Tool | Kosten | Bedienbarkeit | Vorhandener Zugang | Board & Priorität | Benachrichtigung | Datenschutz | Gewichtete Punktzahl |
+| Tool | Kosten | Bedienbarkeit | Vorhandener Zugang | Board & Priorität | Benachrichtigung | | Gewichtete Punktzahl |
 |---|---|---|---|---|---|---|---|
-| Notion | | | | | | | |
+| Notion | 500chf| sehr leicht| | ja aber plus nötig | möglich  | ist möglich |  90 |
 | | | | | | | | |
 | | | | | | | | |
 
