@@ -17,22 +17,19 @@ wenn keine hilfe zu verfuegung steht tut man eine nachricht/ticket schicken soda
 
 ### **FÜR LERNENDE: Ticket erstellen**
 
-1. Geh auf diesen Link: [Link einfügen]  
-    → Du siehst jetzt ein Formular
-2. Füll aus:
+1. Geh auf Notion und auf die entsprechende Board-Page
+2. Mache im Board eine neue Page und fülle aus:
     - Dein Name: [dein Name]
     - Priorität: Hoch / Mittel / Niedrig (ankreuzen)
     - Problem beschreiben: [mindestens 2–3 Sätze, was ist das Problem?]
     - Fragen für den Coach: [was genau brauchst du Hilfe bei?]
-3. Klick auf **"ABSENDEN"** (grüner Button unten rechts)  
-    → Fertig! Der Coach sieht dein Ticket jetzt
+3. So! Jetzt hast du dein Ticket erstellt. Jetzt musst du nur warten auf dein Coach
 
 ---
 
 ### **FÜR COACHES: Tickets verwalten**
 
-1. Geh auf diesen Link: [Link einfügen]  
-    → Du siehst jetzt alle Tickets in einer Tabelle
+1. Geh auf Notion und auf die entsprechende Board-Page
 2. Tickets ansehen:
     - Neue Tickets erscheinen in der Spalte **"Todo"**
     - Klick auf ein Ticket, um die Fragen zu lesen
@@ -47,18 +44,18 @@ wenn keine hilfe zu verfuegung steht tut man eine nachricht/ticket schicken soda
 
 
 
-für anfprderungen für den tool:
+für anforderungen für den tool:
 
 ## Kriterien & Gewichtung (Nutzwertanalyse)
 
 | Kriterium | Gewichtung (%) |
 |---|---|
-| Kosten | |
-| Bedienbarkeit für Lernende | |
-| Bereits vorhandener Zugang | |
-| Board- & Prioritätsfunktion | |
-| Benachrichtigung an Coaches | |
-| Datenschutz / Datenstandort | |
+| Kosten | 30 |
+| Bedienbarkeit für Lernende | 20 |
+| Bereits vorhandener Zugang | 5 |
+| Board- & Prioritätsfunktion | 20 |
+| Benachrichtigung an Coaches | 20 |
+| Datenschutz / Datenstandort | 5 |
 | **Total** | **100** |
 
 ## Tool-Vergleich
