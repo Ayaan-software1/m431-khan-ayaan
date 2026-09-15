@@ -47,6 +47,56 @@ wenn keine hilfe zu verfuegung steht tut man eine nachricht/ticket schicken soda
 
 
 
+für anfprderungen für den tool:
+## Anforderungen
+
+### Funktionale Anforderungen
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+### Nicht-funktionale Anforderungen
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Kriterien & Gewichtung (Nutzwertanalyse)
+
+| Kriterium | Gewichtung (%) |
+|---|---|
+| Kosten | |
+| Bedienbarkeit für Lernende | |
+| Bereits vorhandener Zugang | |
+| Board- & Prioritätsfunktion | |
+| Benachrichtigung an Coaches | |
+| Datenschutz / Datenstandort | |
+| **Total** | **100** |
+
+## Tool-Vergleich
+
+| Tool | Kosten | Bedienbarkeit | Vorhandener Zugang | Board & Priorität | Benachrichtigung | Datenschutz | Gewichtete Punktzahl |
+|---|---|---|---|---|---|---|---|
+| Notion | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+## Entscheid
+Begründung: 
+
+## Kurzanleitung
+### Für Lernende
+1. 
+2. 
+3. 
+
+### Für Coaches
+1. 
+2. 
+3.
+
+
+
 arbeitspakete =
 1. entwurf erstellen fuer die empfehlung
 2. entwurf erstellen fuer die kurzanleitung
