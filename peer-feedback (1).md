@@ -55,20 +55,20 @@ Machen Sie das, wofür das Ergebnis gedacht ist - folgen Sie der Anleitung, lese
 
 | | Frage | Antwort |
 |---|---|---|
-| a | Wo genau bin ich hängengeblieben? | |
-| b | Was habe ich anders verstanden, als es gemeint war? | |
-| c | Welche Frage bleibt offen, nachdem ich fertig bin? | |
+| a | Wo genau bin ich hängengeblieben? | | wir sind nirgends stecken geblieben es war alles einfach zu bedienen. das einzige problem war das wir auf oneonote Webseite die buttons am suchen waren obwohl es auf den app onenote war. das haben wir nämlich mit Leo und Namir augeklärt.
+| b | Was habe ich anders verstanden, als es gemeint war? | | wir hatten einen verwirren ob es noenote app oder website  gemeint war, das haben die beide aber dan mündlich.
+| c | Welche Frage bleibt offen, nachdem ich fertig bin? | | keine fragen alles war verständlich.
 
 ## 3 · Die zwei Punkte
 
 **Das behalte ich unbedingt so:**
-
+dieser word-Dokument ist sehr gut. ich würde auch bei Änderungen auch diesen dokument benutzen
 
 **Das eine, das am meisten bringen würde:**
 
 
 > Genau **ein** Punkt. Eine Liste mit zwölf Punkten wird nicht umgesetzt - einer schon.
-
+ einfach afklären ob webseite oder app
 ---
 
 # Teil B · Das Teamgespräch
